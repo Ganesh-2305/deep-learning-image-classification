@@ -83,4 +83,4 @@ image_classifier_model.h5
 ---
 
 ## Author
-Pruthviraj Pawar
+Ganesh Mule
